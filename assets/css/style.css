@@ -12,7 +12,7 @@ body{
 }
 
 .student-profile, .check-profile{
-  background: url('../img/profile.jpg') !important;
+  background: url('../img/me.jpg') !important;
   background-size: cover !important;
 }
 
@@ -133,6 +133,8 @@ body{
 /* Global Elements */
 
 .profile-pic{
+  background: url('../img/kru.jpg') !important;
+  background-size: 250px 160px !important;
   width: 130px;
   height: 130px;
   border-radius: 150px;
